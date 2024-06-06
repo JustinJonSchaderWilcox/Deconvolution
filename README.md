@@ -1,7 +1,7 @@
-This directory contains all of the scripts for the manuscript 'Identification of 5mC within heterogenous tissue using de-novo somatic mutations'
+This directory contains all of the scripts for the manuscript 'Identification of 5mC within heterogenous tissue using de-novo somatic mutations' within the subdirectory **CompiledScripts**
 
 
-Scripts are divided into subdirectories based on the analyses for which they were used, as below:
+Scripts within **CompiledScripts** are divided into subdirectories based on the analyses for which they were used, as below:
 
 **Annotations** contains all scripts used to obtain the reference genome and annotate the features that it contains
 
